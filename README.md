@@ -8,7 +8,7 @@ VoltHaven is a dynamic landing page showcasing a smart energy system prototype. 
 Role: Lead Cloud Engineer
 
 ## 🌍 Live Demo
-**Public IP:** http://<your-ec2-ip>
+**Public IP:** http://54.193.174.109/
 
 ## 📸 Screenshot
 ![Screenshot](screenshot.png)
@@ -18,7 +18,6 @@ Role: Lead Cloud Engineer
 2. Installed and configured Nginx.
 3. Created responsive landing page with Tailwind.
 4. Enabled HTTP/HTTPS ports in EC2 security group.
-5. (Optional) Configured SSL using Certbot.
 
 ## 🔐 Tech Stack
 - AWS EC2
